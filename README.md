@@ -28,3 +28,6 @@ line_no		Description
 
  ('NA' if calculation of respective torsion angle is not possible.)
 
+USAGE : 
+Input : python2.7 filename.pdb
+Output : filename_output.txt
